@@ -1,4 +1,35 @@
-# Swiggy-Dataset-Dashboard-Insights-Excel-
-Analyzed Swiggy’s raw order dataset to identify key trends related to pricing, customer ratings, and restaurant performance. Performed data cleaning and structuring to ensure accuracy and consistency before analysis.
+# Swiggy Sales Dashboard (Excel)
 
-Built an interactive Excel dashboard using pivot tables and charts to visualize insights effectively and support data-driven decision-making. The project helped derive actionable business insights and improved understanding of customer behavior and operational performance.
+## Project Overview
+This project analyzes Swiggy restaurant and order data using Microsoft Excel to uncover business insights related to restaurant performance, pricing, customer ratings, and delivery trends.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+## Dataset
+- Swiggy Restaurant Dataset
+- Cleaned and transformed before analysis
+
+## Key Objectives
+- Analyze restaurant ratings and pricing
+- Identify top-performing restaurants
+- Compare cuisine popularity
+- Explore customer preferences
+- Build an interactive dashboard
+
+## Dashboard Features
+- Restaurant Performance
+- Rating Analysis
+- Price Distribution
+- Cuisine Analysis
+- Interactive Filters (Slicers)
+
+## Key Insights
+- Identified top-rated restaurants.
+- Compared pricing across different cuisines.
+- Analyzed customer rating trends.
+- Created an interactive dashboard for business decision-making.
