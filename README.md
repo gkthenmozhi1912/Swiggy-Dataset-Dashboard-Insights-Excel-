@@ -29,10 +29,10 @@ This project analyzes Swiggy restaurant and order data using Microsoft Excel to 
 - Interactive Filters (Slicers)
 
 ## Key Insights
-- Identified top-rated restaurants.
+- Identified the top-performing restaurants based on ratings.
 - Compared pricing across different cuisines.
 - Analyzed customer rating trends.
-- Created an interactive dashboard for business decision-making.
+- Built an interactive dashboard for business decision-making.
 
 ## Dashboard Preview
 
