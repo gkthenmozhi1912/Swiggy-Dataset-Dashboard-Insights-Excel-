@@ -33,3 +33,7 @@ This project analyzes Swiggy restaurant and order data using Microsoft Excel to 
 - Compared pricing across different cuisines.
 - Analyzed customer rating trends.
 - Created an interactive dashboard for business decision-making.
+
+## Dashboard Preview
+
+![Swiggy Dashboard](Dashboard.png)
